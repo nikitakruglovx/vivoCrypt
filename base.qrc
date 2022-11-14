@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="prefix1">
+    <file>icon/cryptographic.png</file>
+    <file>icon/circle(4).png</file>
+    <file>icon/circle(5).png</file>
+    <file>icon/error.png</file>
+    <file>icon/eye.png</file>
+    <file>icon/hidden.png</file>
+    <file>icon/refresh.png</file>
+  </qresource>
+</RCC>
